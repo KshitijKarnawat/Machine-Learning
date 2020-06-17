@@ -1,4 +1,4 @@
-## Programs from the courses aren't uploaded as the would break the Coursera Honour Code
+## Programs from the courses aren't uploaded as it would break the Coursera Honour Code
 
 Machine Learning Courses:
 
