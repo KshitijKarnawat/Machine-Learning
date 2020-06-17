@@ -1,14 +1,17 @@
-# TensorFlow
-This repository consists of all the material I am going through for learning TensorFlow.
+# Machine Learning
+This repository consists of all the material I am going through for learning Machine Learning.
 
-All the files are run on [Google Colab](https://colab.research.google.com/) or [TensorFlow 2.0](https://www.tensorflow.org/)
+### Coursera
+You can avail these courses for free by applying for a Financial Aid on [Coursera](coursera.org).
+
+All the files are run on [Google Colab](https://colab.research.google.com/) or [TensorFlow 2.0](https://www.tensorflow.org/).
 ### Install
-Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install)
+Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install).
 ### NPTEL MOOC: Practical Machine Learning with TensorFlow
 This file consists of the practical examples and assignments from the course.
 
-The programs are seprated as per Weeks of the course
+The programs are seprated as per Weeks of the course.
 
-Link to the course is given [here](https://nptel.ac.in/courses/106/106/106106213/#)
+Link to the course is given [here](https://nptel.ac.in/courses/106/106/106106213/#).
 ### License
-The contents of this repository are licensed by the [Apache 2.0](https://github.com/Nova1323/Tensorflow/blob/master/LICENSE) license
+The contents of this repository are licensed by the [Apache 2.0](https://github.com/Nova1323/Tensorflow/blob/master/LICENSE) license.
