@@ -8,5 +8,7 @@ Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install)
 This file consists of the practical examples and assignments from the course.
 
 The programs are seprated as per Weeks of the course
+
+Link to the course is give [here](https://nptel.ac.in/courses/106/106/106106213/#)
 ### License
 The contents of this repository are licensed by the [Apache 2.0](https://github.com/Nova1323/Tensorflow/blob/master/LICENSE) license
