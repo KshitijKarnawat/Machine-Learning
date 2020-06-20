@@ -6,7 +6,9 @@ All the files are run on [Google Colab](https://colab.research.google.com/) or [
 You can avail these courses for free by applying for a Financial Aid on [Coursera](coursera.org).
 ### Install
 Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install).
-### NPTEL MOOC: Practical Machine Learning with TensorFlow
+### NPTEL MOOC: Practical Machine Learning with TensorFlow (Gov. of India)
+Note: If you are unable to use this site use a VPN and set to India
+
 This file consists of the practical examples and assignments from the course.
 
 The programs are seprated as per Weeks of the course.
