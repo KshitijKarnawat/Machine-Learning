@@ -7,7 +7,7 @@ You can avail these courses for free by applying for a Financial Aid on [Courser
 ### Install
 Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install).
 ### NPTEL MOOC: Practical Machine Learning with TensorFlow (Gov. of India)
-Note: If you are unable to use this site use a VPN and set to India
+**Note: If you are unable to use this site use a VPN and set to India**
 
 This file consists of the practical examples and assignments from the course.
 
