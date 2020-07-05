@@ -4,6 +4,12 @@ This repository consists of all the material I am going through for learning Mac
 All the files are run on [Google Colab](https://colab.research.google.com/) or [TensorFlow 2.0](https://www.tensorflow.org/).
 ### Install
 Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install).
+
+To open these files in a Colab follow the steps.
+1. Go to [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) and Press `Ctrl + O`
+2. Click on GitHub
+3. Open a Notebook on GitHub and copy it's URL
+4. Paste it in Colab and hit Enter
 ### Coursera
 #### Programs from the courses aren't uploaded as it would break the Coursera Honour Code
 Machine Learning Courses:
