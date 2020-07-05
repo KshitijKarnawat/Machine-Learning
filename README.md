@@ -10,7 +10,7 @@ To open these files in a Colab follow the steps.
 2. Click on GitHub.
 3. Open a Notebook on GitHub and copy it's URL.
 4. Paste it in Colab and hit Enter.
-5. Choose the file you want to poen from the results.
+5. Choose the file you want to open from the results.
 ### Coursera
 #### Programs from the courses aren't uploaded as it would break the Coursera Honour Code
 Machine Learning Courses:
