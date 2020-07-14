@@ -8,8 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Nova1323/Machine-Learning?style=plastic)
 [![GitHub version](https://badge.fury.io/gh/Nova1323%2FMachine-Learning.svg)](https://badge.fury.io/gh/Nova1323%2FMachine-Learning)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nova1323/Machine-Learning?style=plastic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nova1323/Machine-Learning)
-
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nova1323/Machine-Learning?style=plastic)
 # Machine Learning
 This repository consists of all the material I am going through for learning Machine Learning.
 
