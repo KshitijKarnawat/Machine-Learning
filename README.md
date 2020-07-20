@@ -31,6 +31,11 @@ Machine Learning Courses:
 3. [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 You can avail these courses for free by applying for a Financial Aid on [Coursera](coursera.org).
+
+### Books
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html) by By Michael Nielsen
+- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
 ### YouTube
 #### Python Basics
 - [Python Basics](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
