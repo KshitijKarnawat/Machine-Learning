@@ -59,13 +59,8 @@ You can avail these courses for free by applying for a Financial Aid on [Courser
 - [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) by Stanford University
 - [CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) by Stanford University
 - [CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University
-### NPTEL MOOC: Practical Machine Learning with TensorFlow (Gov. of India)
+- NPTEL MOOC: [Practical Machine Learning with TensorFlow](https://nptel.ac.in/courses/106/106/106106213/#). (Gov. of India)
 **_Note: If you are unable to use this site use a VPN and set to India_**
 
-This file consists of the practical examples and assignments from the course.
-
-The programs are seprated as per Weeks of the course.
-
-Link to the course is given [here](https://nptel.ac.in/courses/106/106/106106213/#).
 ### License 
 The contents of this repository are licensed by the [Apache 2.0](https://github.com/Nova1323/Tensorflow/blob/master/LICENSE) license.
