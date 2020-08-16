@@ -12,3 +12,7 @@ A solution to this will be Image Augmentation.
 
 ![img](https://github.com/Nova1323/Machine-Learning/blob/master/CNN/Cats%20Vs%20Dogs/Stats/aug%20acc.png)
 ![img](https://github.com/Nova1323/Machine-Learning/blob/master/CNN/Cats%20Vs%20Dogs/Stats/aug%20loss.png)
+
+### Accuracy with Transfer Learning
+
+![img](https://github.com/Nova1323/Machine-Learning/blob/master/CNN/Cats%20Vs%20Dogs/Stats/TL.png)
