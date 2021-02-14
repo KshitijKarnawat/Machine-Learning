@@ -9,12 +9,15 @@
 [![GitHub version](https://badge.fury.io/gh/Nova1323%2FMachine-Learning.svg)](https://badge.fury.io/gh/Nova1323%2FMachine-Learning)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nova1323/Machine-Learning?style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nova1323/Machine-Learning?style=plastic)
+
 # Machine Learning
 This repository consists of all the material I am going through for learning Machine Learning.
 
 All the files are run on [Google Colab](https://colab.research.google.com/) or [TensorFlow 2.0](https://www.tensorflow.org/).
+
 ### Install
-Follow this link to install [TensorFlow 2.0](https://www.tensorflow.org/install).
+
+Run ```pip install -r requirements.txt```. This installs all the libraries and modules required to run the files in this repository.
 
 To open these files in a Colab follow the steps.
 1. Go to [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) and Press `Ctrl + O`.
@@ -22,6 +25,7 @@ To open these files in a Colab follow the steps.
 3. Open a Notebook on GitHub and copy it's URL.
 4. Paste it in Colab and hit Enter.
 5. Choose the file you want to open from the results.
+
 ### Coursera
 #### Programs from the courses aren't uploaded as it would break the Coursera Honour Code
 Machine Learning Courses:
