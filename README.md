@@ -17,7 +17,8 @@ All the files are run on [Google Colab](https://colab.research.google.com/) or [
 
 ### Install
 
-Run ```pip install -r requirements.txt```. This installs all the libraries and modules required to run the files in this repository.
+1. Clone the repository
+2. Run ```pip install -r requirements.txt``` on your terminal(Linux) or comand prompt(Windows). This installs all the dependencies required to run the files in this repository.
 
 To open these files in a Colab follow the steps.
 1. Go to [Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) and Press `Ctrl + O`.
