@@ -1,14 +1,14 @@
-![GitHub followers](https://img.shields.io/github/followers/Nova1323?label=Follow&style=social)
-![GitHub forks](https://img.shields.io/github/forks/Nova1323/Machine-Learning?label=Forks&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Nova1323/Machine-Learning?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Nova1323/Machine-Learning?style=social)
+![GitHub followers](https://img.shields.io/github/followers/KshitijKarnawat?label=Follow&style=social)
+![GitHub forks](https://img.shields.io/github/forks/KshitijKarnawat/Machine-Learning?label=Forks&style=social)
+![GitHub stars](https://img.shields.io/github/stars/KshitijKarnawat/Machine-Learning?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/KshitijKarnawat/Machine-Learning?style=social)
 
-![GitHub](https://img.shields.io/github/license/Nova1323/Machine-Learning?logo=Apache&style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Nova1323/Machine-Learning?style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/Nova1323/Machine-Learning?style=plastic)
-[![GitHub version](https://badge.fury.io/gh/Nova1323%2FMachine-Learning.svg)](https://badge.fury.io/gh/Nova1323%2FMachine-Learning)
-![GitHub repo size](https://img.shields.io/github/repo-size/Nova1323/Machine-Learning?style=plastic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nova1323/Machine-Learning?style=plastic)
+![GitHub](https://img.shields.io/github/license/KshitijKarnawat/Machine-Learning?logo=Apache&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/KshitijKarnawat/Machine-Learning?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/KshitijKarnawat/Machine-Learning?style=plastic)
+[![GitHub version](https://badge.fury.io/gh/KshitijKarnawat%2FMachine-Learning.svg)](https://badge.fury.io/gh/KshitjKaranwat%2FMachine-Learning)
+![GitHub repo size](https://img.shields.io/github/repo-size/KshitijKarnawat/Machine-Learning?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/KshitijKarnawat/Machine-Learning?style=plastic)
 
 # Machine Learning
 This repository consists of all the material I am going through for learning Machine Learning.
@@ -68,4 +68,4 @@ You can avail these courses for free by applying for a Financial Aid on [Courser
 **_Note: If you are unable to use this site use a VPN and set to India_**
 
 ### License 
-The contents of this repository are licensed by the [Apache 2.0](https://github.com/Nova1323/Tensorflow/blob/master/LICENSE) license.
+The contents of this repository are licensed by the [Apache 2.0](https://github.com/KshitijKarnawat/Tensorflow/blob/master/LICENSE) license.
